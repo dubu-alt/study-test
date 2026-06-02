@@ -1,1 +1,1 @@
-print("codeit")
+print("1mo")
